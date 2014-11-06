@@ -1,0 +1,4 @@
+Majak
+=====
+
+Blog about Finland
